@@ -1,13 +1,13 @@
 <style>
     .links img, .languages img  {
-        width: 4rem;
+        width: 4rem !important;
     }
 
 
     .links, .languages {
-        display: flex;
-        margin-bottom: 4rem;
-        justify-content: space-around;
+        display: flex !important;
+        margin-bottom: 4rem !important;
+        justify-content: space-around !important;
     }
 </style>
 ## Hello world 👋
