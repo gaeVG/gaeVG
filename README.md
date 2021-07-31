@@ -1,15 +1,3 @@
-<style>
-    .links img, .languages img  {
-        width: 4rem !important;
-    }
-
-
-    .links, .languages {
-        display: flex !important;
-        margin-bottom: 4rem !important;
-        justify-content: space-around !important;
-    }
-</style>
 ## Hello world 👋
 
 > ```
@@ -34,6 +22,19 @@
 ## Languages
 ### Most Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaeVG&theme=dark)](https://github.com/gaeVG?tab=repositories)
+
+<style>
+    .links img, .languages img  {
+        width: 4rem !important;
+    }
+
+
+    .links, .languages {
+        display: flex !important;
+        margin-bottom: 4rem !important;
+        justify-content: space-around !important;
+    }
+</style>
 <div class="languages">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="HTML" />
     <img src="https://cdn.iconscout.com/icon/free/png-256/css3-8-1175200.png" alt="CSS">
