@@ -50,15 +50,15 @@
 
 <p align="center">
     <img    
-        src="https://exs.sr5001lukiye.pw/img/925290.png"
-        width="64" height="64"
-    />
-    <img
-        src="https://files.readme.io/320345b-React_Logo_256x256.png"
+        src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-7-1175254.png"
         width="64" height="64"
     />
     <img
         src="https://cdn.iconscout.com/icon/free/png-256/jquery-7-1175152.png"
+        width="64" height="64"
+    />
+    <img
+        src="https://files.readme.io/320345b-React_Logo_256x256.png"
         width="64" height="64"
     />
     <img
@@ -68,6 +68,10 @@
 </p>
 
 <p align="center">
+    <img    
+        src="https://exs.sr5001lukiye.pw/img/925290.png"
+        width="64" height="64"
+    />
     <img
         src="https://www.grafics.fr/wp-content/uploads/2015/01/php-copyright-avec-les-annees-01.png"
         width="64" height="64"
@@ -91,10 +95,6 @@
         src="https://repository-images.githubusercontent.com/188429514/9ceb8680-7fb5-11e9-812c-234b6d38879b"
         width="64" height="64"
     />
-    <img
-        src="https://assets.pipedream.net/s.v0/app_XywhLL/logo/orig?__acb=ac361cdb27d19ef1a88c00890969f1c1&__fcb=7234281273318464
-        width="64 height="64"
-    >
 </p>
 
 ### Most Used
