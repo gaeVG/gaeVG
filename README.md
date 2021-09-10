@@ -13,19 +13,19 @@
 
 ## Links
 <p align="center">
-    <a src="https://cenne.xyz">
+    <a href="https://cenne.xyz">
         <img
             src="https://stephentaes.net/img/developpeur-web-full-stack.png"
             width="64" height="64"
         />
     </a>
-    <a src="https://discord.gg/VJryasnKke">
+    <a href="https://discord.gg/VJryasnKke">
         <img
             src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png"
             width="64" height="64"
         />
     </a>
-</div>
+</p>
 
 ## Languages
 
@@ -69,7 +69,7 @@
 
 <p align="center">
     <img    
-        src="https://exs.sr5001lukiye.pw/img/925290.png"
+        src="https://infoplus.consulting/wp-content/uploads/2018/11/nodejs-300.png"
         width="64" height="64"
     />
     <img
@@ -100,9 +100,11 @@
 ### Most Used
 ---
 <p align="center">
-    <a href="https://github.com/gaeVG?tab=repositories">
-        <img
-            src="https://camo.githubusercontent.com/bb4da1ea9b58eea9888516bc14cc22a9026d5866310dd28ac0a36720606bc6a2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6761655647267468656d653d6461726b"
-            data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeVG&amp;theme=dark">
-    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/84fbb2705b75da36923184a0b89f4fb3c3706793033e1a27cae2a6832d4683d4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d676165564726636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d7265616374" alt="Personal statistics" data-canonical-src="https://github-readme-stats.vercel.app/api?username=gaeVG&amp;count_private=true&amp;show_icons=true&amp;theme=react" style="max-width: 100%;"></a>
+</p>
+<p align="center">
+    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c1fc43466567c01b73bc5132af38e55d7e7b8b23ae720806048f45e609e66add/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6761655647267468656d653d7265616374"><img src="https://camo.githubusercontent.com/c1fc43466567c01b73bc5132af38e55d7e7b8b23ae720806048f45e609e66add/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6761655647267468656d653d7265616374" alt="Github stats" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaeVG&amp;theme=react" style="max-width: 100%;"></a>
+</p>
+<p align="center">
+    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ad13e1376102755a67f832acc20b9b96a99154ede812c9da1ad09f64ab160a73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6761655647"><img src="https://camo.githubusercontent.com/ad13e1376102755a67f832acc20b9b96a99154ede812c9da1ad09f64ab160a73/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6761655647" alt="gaeVG's wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=gaeVG" style="max-width: 100%;"></a>
 </p>
