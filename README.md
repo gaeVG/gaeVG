@@ -10,18 +10,11 @@
         alt="CV"
         />
     </a>
-    <a href="https://cenne.xyz/7cdc78dc26/gaev">
+    <a href="https://git.cenne.xyz/gaev">
         <img
             src="https://gitlab.com/uploads/-/system/project/avatar/23203100/icon-gitlab.png"
             width="64" height="64"
             alt="Dépôt personnel GitLab"
-        />
-    </a>
-    <a href="https://discord.gg/VJryasnKke">
-        <img
-            src="https://upload.wikimedia.org/wikipedia/fr/8/80/Logo_Discord_2015.png"
-            width="64" height="64"
-            alt="La taverne de Moe — Discord d'entre-aide développement"
         />
     </a>
 </p>
