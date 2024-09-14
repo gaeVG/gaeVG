@@ -1,11 +1,9 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "46 4 * * *"
+    - cron: "50 4 * * *"
 
 jobs:
   update-readme:
@@ -18,9 +16,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           LOCALE: fr
-          SHOW_LINES_OF_CODE: True
-          SHOW_TOTAL_CODE_TIME: True
-          SHOW_COMMIT: True
-          SHOW_DAYS_OF_WEEK: True
-          SHOW_LANGUAGE: True
-          SHOW_PROJECTS: True
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_PROJECTS: "True"
