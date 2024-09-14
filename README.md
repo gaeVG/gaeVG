@@ -82,4 +82,18 @@
 ### Stats
 ![gaeVG GitHub stats](https://github-readme-stats.vercel.app/api?username=gaevg&show_icons=true&theme=city_lights)
 <!--START_SECTION:waka-->
+
+```txt
+From: 09 September 2021 - To: 13 September 2024
+
+Total Time: 3,216 hrs 46 mins
+
+TypeScript                 1,650 hrs 25 mins████████████▓░░░░░░░░░░░░   51.31 %
+JavaScript                 492 hrs 52 mins ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+Lua                        479 hrs 11 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.90 %
+JSON                       127 hrs 28 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+JSX                        98 hrs 43 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Other                      55 hrs 58 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+```
+
 <!--END_SECTION:waka-->
