@@ -15,7 +15,7 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          LOCALE: fr
+          LOCALE: "fr"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_COMMIT: "True"
