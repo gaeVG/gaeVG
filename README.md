@@ -84,19 +84,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2024 - To: 14 September 2024
+From: 16 August 2024 - To: 15 September 2024
 
-Total Time: 177 hrs 35 mins
+Total Time: 170 hrs 40 mins
 
-TypeScript    77 hrs 30 mins  ███████████░░░░░░░░░░░░░░   43.65 %
-JavaScript    22 hrs 51 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.87 %
-JSON          18 hrs 27 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-YAML          17 hrs 59 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Lua           12 hrs          ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
-Prisma        10 hrs 54 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-PowerShell    3 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-TSConfig      3 hrs 20 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Other         2 hrs 44 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+TypeScript    72 hrs 43 mins  ███████████░░░░░░░░░░░░░░   42.61 %
+JavaScript    22 hrs 40 mins  ███░░░░░░░░░░░░░░░░░░░░░░   13.29 %
+YAML          17 hrs 55 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+JSON          17 hrs 54 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10.49 %
+Lua           11 hrs 58 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Prisma        11 hrs 6 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+PowerShell    3 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+TSConfig      3 hrs 32 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Other         2 hrs 45 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
