@@ -6,7 +6,7 @@
 </div>
 <p>&nbsp;</p>
 
-- 👨‍💻 **Currently project**: Lead developer at [Ventura](https://github.com/orgventura), in charge of project management and structure, and user interfaces
+- 👨‍💻 **Currently project**: Lead developer at [Division V](https://github.com/orgs/division-v), in charge of project management and structure, and user interfaces
 - 🔨 **Recent project**: I [contributed](https://github.com/orgs/Hysoa/repositories) to the creation and publication of the **Hysoa Music** [website](https://hysoamusic.fr/)
 - 🧑‍🏫 **Mentoring**: Participation in the developer community, help for beginners on GitHub and Discord
 
