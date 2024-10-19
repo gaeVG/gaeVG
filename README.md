@@ -84,15 +84,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2024 - To: 16 October 2024
+From: 17 September 2024 - To: 17 October 2024
 
-Total Time: 78 hrs 29 mins
+Total Time: 72 hrs 7 mins
 
-TypeScript   30 hrs 18 mins  ██████████░░░░░░░░░░░░░░░   38.61 %
-JavaScript   21 hrs 50 mins  ███████░░░░░░░░░░░░░░░░░░   27.83 %
-Lua          12 hrs 27 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-PowerShell   1 hr 14 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Other        57 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+TypeScript   30 hrs 3 mins   ██████████░░░░░░░░░░░░░░░   41.69 %
+JavaScript   21 hrs 55 mins  ████████░░░░░░░░░░░░░░░░░   30.40 %
+Lua          12 hrs 25 mins  ████░░░░░░░░░░░░░░░░░░░░░   17.24 %
+PowerShell   1 hr 14 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Other        46 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
