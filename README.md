@@ -84,16 +84,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2024 - To: 17 November 2024
+From: 19 October 2024 - To: 18 November 2024
 
-Total Time: 112 hrs 47 mins
+Total Time: 113 hrs 6 mins
 
-TypeScript   80 hrs 4 mins   ██████████████████░░░░░░░   70.99 %
-Lua          22 hrs 39 mins  █████░░░░░░░░░░░░░░░░░░░░   20.09 %
-JavaScript   3 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-CSS          1 hr 56 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+TypeScript   80 hrs 36 mins  ██████████████████░░░░░░░   71.26 %
+Lua          22 hrs 39 mins  █████░░░░░░░░░░░░░░░░░░░░   20.03 %
+JavaScript   3 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+CSS          1 hr 42 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 Prisma       32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Other        26 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Other        27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
