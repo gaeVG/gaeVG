@@ -84,18 +84,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2024 - To: 27 November 2024
+From: 29 October 2024 - To: 28 November 2024
 
-Total Time: 95 hrs 13 mins
+Total Time: 93 hrs 12 mins
 
-TypeScript    70 hrs 29 mins  ███████████████████░░░░░░   74.02 %
-Lua           15 hrs 49 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-JavaScript    3 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-CSS           1 hr 17 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-PowerShell    35 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Bash          32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Prisma        32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Other         29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+TypeScript    68 hrs 40 mins  ██████████████████░░░░░░░   73.67 %
+Lua           15 hrs 38 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.78 %
+JavaScript    3 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+CSS           1 hr 17 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+PowerShell    35 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Bash          32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Prisma        32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Other         29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
