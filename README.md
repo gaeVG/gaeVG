@@ -84,17 +84,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2024 - To: 12 December 2024
+From: 13 November 2024 - To: 13 December 2024
 
-Total Time: 99 hrs 33 mins
+Total Time: 111 hrs 40 mins
 
-TypeScript    63 hrs 28 mins  ████████████████░░░░░░░░░   63.77 %
-Lua           15 hrs 38 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
-JavaScript    8 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-Bash          1 hr 50 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-INI           1 hr 40 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Prisma        1 hr 14 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Other         1 hr 6 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+TypeScript    71 hrs 7 mins   ████████████████░░░░░░░░░   63.69 %
+Lua           20 hrs 10 mins  █████░░░░░░░░░░░░░░░░░░░░   18.07 %
+JavaScript    8 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+Bash          1 hr 51 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+INI           1 hr 41 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Other         1 hr 3 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
