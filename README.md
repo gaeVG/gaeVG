@@ -84,18 +84,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2024 - To: 17 December 2024
+From: 18 November 2024 - To: 18 December 2024
 
-Total Time: 136 hrs 44 mins
+Total Time: 143 hrs 41 mins
 
-TypeScript    79 hrs 45 mins  ███████████████░░░░░░░░░░   58.33 %
-Lua           24 hrs 40 mins  █████░░░░░░░░░░░░░░░░░░░░   18.05 %
-JavaScript    9 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
-Bash          2 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-PowerShell    2 hrs 17 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-INI           2 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Prisma        1 hr 14 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Other         59 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+TypeScript                 82 hrs 58 mins  ██████████████░░░░░░░░░░░   57.74 %
+Lua                        25 hrs 10 mins  ████░░░░░░░░░░░░░░░░░░░░░   17.52 %
+JavaScript                 8 hrs 25 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Bash                       2 hrs 48 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+PowerShell                 2 hrs 28 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Docker                     2 hrs 2 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+INI                        1 hr 44 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Prisma                     1 hr 20 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
