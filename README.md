@@ -84,16 +84,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2024 - To: 24 December 2024
+From: 25 November 2024 - To: 25 December 2024
 
-Total Time: 142 hrs 52 mins
+Total Time: 142 hrs
 
-TypeScript                 79 hrs 30 mins  ██████████████░░░░░░░░░░░   55.64 %
-Lua                        26 hrs 6 mins   █████░░░░░░░░░░░░░░░░░░░░   18.27 %
-JavaScript                 6 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-Bash                       3 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-PowerShell                 3 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Docker                     2 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+TypeScript                 79 hrs 56 mins  ██████████████░░░░░░░░░░░   56.30 %
+Lua                        26 hrs 6 mins   █████░░░░░░░░░░░░░░░░░░░░   18.38 %
+JavaScript                 5 hrs 41 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Bash                       3 hrs 17 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+PowerShell                 2 hrs 32 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Docker                     2 hrs 4 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 INI                        2 hrs 3 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 Markdown                   1 hr 51 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
