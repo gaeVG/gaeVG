@@ -84,18 +84,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2024 - To: 09 January 2025
+From: 11 December 2024 - To: 10 January 2025
 
-Total Time: 167 hrs 15 mins
+Total Time: 168 hrs 25 mins
 
-TypeScript                 89 hrs 8 mins   █████████████░░░░░░░░░░░░   53.30 %
-Lua                        34 hrs          █████░░░░░░░░░░░░░░░░░░░░   20.33 %
-JavaScript                 6 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Rust                       5 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-PowerShell                 2 hrs 55 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Markdown                   2 hrs 53 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Bash                       2 hrs 16 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Docker                     2 hrs 1 min     ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+TypeScript                 89 hrs 4 mins   █████████████░░░░░░░░░░░░   52.89 %
+Lua                        34 hrs          █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+JavaScript                 6 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Rust                       5 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+PowerShell                 2 hrs 55 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Markdown                   2 hrs 53 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Bash                       2 hrs 39 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Docker                     2 hrs 1 min     ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
