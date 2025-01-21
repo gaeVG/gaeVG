@@ -84,18 +84,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2024 - To: 18 January 2025
+From: 20 December 2024 - To: 19 January 2025
 
-Total Time: 138 hrs 11 mins
+Total Time: 139 hrs 1 min
 
-TypeScript                 69 hrs 7 mins   █████████████░░░░░░░░░░░░   50.02 %
-Lua                        29 hrs 48 mins  █████░░░░░░░░░░░░░░░░░░░░   21.57 %
-Prisma                     7 hrs 51 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-JavaScript                 5 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Rust                       4 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Markdown                   3 hrs 56 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Bash                       2 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Other                      1 hr 35 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+TypeScript                 69 hrs 35 mins  █████████████░░░░░░░░░░░░   50.06 %
+Lua                        29 hrs 18 mins  █████░░░░░░░░░░░░░░░░░░░░   21.08 %
+Prisma                     8 hrs 57 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+JavaScript                 5 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+Rust                       4 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Markdown                   3 hrs 56 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+Bash                       2 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Other                      1 hr 35 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
