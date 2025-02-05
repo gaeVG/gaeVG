@@ -84,16 +84,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2025 - To: 02 February 2025
+From: 04 January 2025 - To: 03 February 2025
 
-Total Time: 164 hrs 13 mins
+Total Time: 163 hrs
 
-TypeScript                 72 hrs 7 mins   ███████████░░░░░░░░░░░░░░   43.92 %
-Prisma                     49 hrs 30 mins  ████████░░░░░░░░░░░░░░░░░   30.15 %
-Lua                        17 hrs 23 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10.59 %
-JavaScript                 4 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Rust                       4 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Other                      2 hrs 26 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+TypeScript                 68 hrs 21 mins  ██████████░░░░░░░░░░░░░░░   41.94 %
+Prisma                     49 hrs 30 mins  ████████░░░░░░░░░░░░░░░░░   30.37 %
+Lua                        16 hrs 54 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+JavaScript                 5 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Rust                       4 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Other                      2 hrs 48 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
