@@ -84,13 +84,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2025 - To: 18 February 2025
+From: 20 January 2025 - To: 19 February 2025
 
-Total Time: 166 hrs 59 mins
+Total Time: 169 hrs 29 mins
 
-TypeScript    86 hrs 42 mins  █████████████░░░░░░░░░░░░   51.93 %
-Prisma        40 hrs 56 mins  ██████░░░░░░░░░░░░░░░░░░░   24.52 %
-Other         7 hrs 53 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+TypeScript    93 hrs 3 mins   ██████████████░░░░░░░░░░░   54.90 %
+Prisma        35 hrs 37 mins  █████░░░░░░░░░░░░░░░░░░░░   21.02 %
+Lua           8 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Other         7 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
 ```
 
 <!--END_SECTION:waka-->
