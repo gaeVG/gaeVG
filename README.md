@@ -84,14 +84,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2025 - To: 22 March 2025
+From: 21 February 2025 - To: 23 March 2025
 
-Total Time: 138 hrs 22 mins
+Total Time: 129 hrs 12 mins
 
-TypeScript   86 hrs 39 mins  ████████████████░░░░░░░░░   62.62 %
-PowerShell   14 hrs          ███░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-JavaScript   5 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Other        3 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+TypeScript   84 hrs 35 mins  ████████████████░░░░░░░░░   65.47 %
+PowerShell   8 hrs 51 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
+JavaScript   5 hrs 23 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Other        3 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
