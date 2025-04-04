@@ -84,15 +84,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2025 - To: 01 April 2025
+From: 03 March 2025 - To: 02 April 2025
 
-Total Time: 140 hrs 38 mins
+Total Time: 149 hrs 18 mins
 
-TypeScript   102 hrs 21 mins ██████████████████░░░░░░░   72.78 %
-PowerShell   8 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-Lua          4 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-JavaScript   3 hrs 22 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Other        2 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+TypeScript   108 hrs 4 mins  ██████████████████░░░░░░░   72.39 %
+PowerShell   8 hrs 39 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Lua          4 hrs 25 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+JavaScript   3 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+INI          2 hrs 42 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Other        2 hrs 37 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
