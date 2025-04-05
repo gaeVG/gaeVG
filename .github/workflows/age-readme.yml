@@ -31,7 +31,7 @@ jobs:
         with open('README.md', 'r') as file:
             readme_content = file.read()
 
-        pattern = r"I'm Andy, \d+ years old"
+        pattern = r'I\'m Andy, \\d+ years old'
         new_content = re.sub(pattern, f'I\'m Andy, {age} years old', readme_content)
 
         with open('README.md', 'w') as file:
