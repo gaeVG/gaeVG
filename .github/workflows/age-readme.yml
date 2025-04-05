@@ -1,9 +1,9 @@
 name: Update Age in README
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 28 9 *"
+    - cron: '0 0 28 9 *'  # Se déclenche chaque 28 septembre à minuit UTC
+  workflow_dispatch:  # Permet de déclencher manuellement le workflow
 
 jobs:
   update-age:
@@ -21,15 +21,18 @@ jobs:
     - name: Calculate and update age
       run: |
         python -c "
+        import re
         from datetime import datetime
-        birth_year = 1989
-        current_year = datetime.now().year
-        age = current_year - birth_year
+
+        birth_date = datetime(1989, 9, 28)
+        today = datetime.now()
+        age = today.year - birth_date.year - ((today.month, today.day) < (birth_date.month, birth_date.day))
 
         with open('README.md', 'r') as file:
             readme_content = file.read()
 
-        new_content = readme_content.replace('34 years old', f'{age} years old')
+        pattern = r"I'm Andy, \d+ years old"
+        new_content = re.sub(pattern, f'I\'m Andy, {age} years old', readme_content)
 
         with open('README.md', 'w') as file:
             file.write(new_content)
@@ -37,8 +40,8 @@ jobs:
 
     - name: Commit changes
       run: |
-        git config --global user.name 'FKingLife'
+        git config --global user.name 'GitHubActionBot'
         git config --global user.email 'action-bot@github.com'
         git add README.md
         git commit -m 'Updated age in README'
-        git push origin main
+        git push origin master
