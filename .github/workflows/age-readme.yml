@@ -1,0 +1,44 @@
+name: Update Age in README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 28 9 *"
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Calculate and update age
+      run: |
+        python -c "
+        from datetime import datetime
+        birth_year = 1989
+        current_year = datetime.now().year
+        age = current_year - birth_year
+
+        with open('README.md', 'r') as file:
+            readme_content = file.read()
+
+        new_content = readme_content.replace('34 years old', f'{age} years old')
+
+        with open('README.md', 'w') as file:
+            file.write(new_content)
+        "
+
+    - name: Commit changes
+      run: |
+        git config --global user.name 'FKingLife'
+        git config --global user.email 'action-bot@github.com'
+        git add README.md
+        git commit -m 'Updated age in README'
+        git push origin main
