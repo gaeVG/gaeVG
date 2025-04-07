@@ -84,18 +84,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2025 - To: 04 April 2025
+From: 06 March 2025 - To: 05 April 2025
 
-Total Time: 172 hrs 6 mins
+Total Time: 173 hrs 14 mins
 
-TypeScript   122 hrs 54 mins ██████████████████░░░░░░░   71.42 %
-PowerShell   8 hrs 52 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Lua          7 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Prisma       4 hrs 23 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-INI          3 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-JavaScript   3 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+TypeScript   122 hrs 53 mins ██████████████████░░░░░░░   70.93 %
+PowerShell   8 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Lua          8 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Prisma       5 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+INI          3 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+JavaScript   3 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 TSConfig     2 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-HTML         2 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+HTML         2 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
