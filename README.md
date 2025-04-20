@@ -84,15 +84,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 March 2025 - To: 17 April 2025
+From: 20 March 2025 - To: 19 April 2025
 
-Total Time: 121 hrs 8 mins
+Total Time: 121 hrs 5 mins
 
-TypeScript       89 hrs 4 mins   ██████████████████░░░░░░░   73.53 %
+TypeScript       89 hrs 8 mins   ██████████████████░░░░░░░   73.63 %
 Prisma           9 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-Lua              6 hrs 32 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Lua              6 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
 INI              3 hrs 22 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-JavaScript       1 hr 49 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+JavaScript       1 hr 42 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ActionScript 3   1 hr 1 min      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 Bash             55 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 HTML             48 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
