@@ -84,18 +84,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 March 2025 - To: 22 April 2025
+From: 24 March 2025 - To: 23 April 2025
 
-Total Time: 126 hrs 34 mins
+Total Time: 130 hrs 6 mins
 
-TypeScript       94 hrs 3 mins   ███████████████████░░░░░░   74.31 %
-Prisma           9 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-Lua              6 hrs 57 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-INI              3 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Bash             1 hr 1 min      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-ActionScript 3   1 hr 1 min      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-JavaScript       54 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Git Config       40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+TypeScript       95 hrs 43 mins  ██████████████████░░░░░░░   73.58 %
+Prisma           9 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Lua              6 hrs 51 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+INI              3 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Bash             1 hr 22 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+ActionScript 3   1 hr 1 min      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+JavaScript       45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Git Config       40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
