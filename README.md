@@ -84,18 +84,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2025 - To: 28 May 2025
+From: 29 April 2025 - To: 29 May 2025
 
-Total Time: 178 hrs 33 mins
+Total Time: 176 hrs 55 mins
 
-TypeScript   108 hrs 33 mins ███████████████░░░░░░░░░░   60.80 %
-Lua          12 hrs 29 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-JavaScript   10 hrs 52 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-INI          5 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Bash         3 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-Markdown     3 hrs 26 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Prisma       2 hrs 46 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-HTML         2 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+TypeScript   109 hrs 59 mins ████████████████░░░░░░░░░   62.17 %
+JavaScript   10 hrs 52 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Lua          10 hrs 26 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+INI          5 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Bash         3 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Markdown     3 hrs 26 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Prisma       2 hrs 46 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+HTML         2 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
