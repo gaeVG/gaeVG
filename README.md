@@ -84,14 +84,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2025 - To: 16 August 2025
+From: 18 July 2025 - To: 17 August 2025
 
-Total Time: 204 hrs 26 mins
+Total Time: 202 hrs 8 mins
 
-TypeScript   109 hrs 58 mins █████████████░░░░░░░░░░░░   53.79 %
-Lua          12 hrs 41 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-JavaScript   11 hrs 8 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Other        11 hrs 6 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+TypeScript   109 hrs 34 mins ██████████████░░░░░░░░░░░   54.20 %
+Lua          13 hrs 6 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+Other        11 hrs 18 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 ```
 
 <!--END_SECTION:waka-->
