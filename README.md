@@ -84,9 +84,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 July 2025 - To: 20 August 2025
+From: 22 July 2025 - To: 21 August 2025
 
-Total Time: 193 hrs 57 mins
+Total Time: 193 hrs 56 mins
 
 TypeScript   98 hrs 33 mins  █████████████░░░░░░░░░░░░   50.82 %
 Lua          13 hrs 6 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
