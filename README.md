@@ -84,12 +84,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2025 - To: 23 August 2025
+From: 25 July 2025 - To: 24 August 2025
 
-Total Time: 179 hrs 43 mins
+Total Time: 172 hrs 41 mins
 
-TypeScript   89 hrs 34 mins  ████████████░░░░░░░░░░░░░   49.84 %
-Other        11 hrs 51 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+TypeScript   88 hrs 28 mins  █████████████░░░░░░░░░░░░   51.24 %
+Other        11 hrs 51 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
 ```
 
 <!--END_SECTION:waka-->
