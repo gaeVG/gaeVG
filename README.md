@@ -84,16 +84,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2025 - To: 15 October 2025
+From: 16 September 2025 - To: 16 October 2025
 
-Total Time: 122 hrs 12 mins
+Total Time: 129 hrs 32 mins
 
-TypeScript   85 hrs 25 mins  █████████████████░░░░░░░░   69.90 %
-JavaScript   7 hrs 58 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-TSConfig     3 hrs 22 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Prisma       2 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Bash         1 hr 59 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Other        1 hr 13 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+TypeScript   88 hrs 12 mins  █████████████████░░░░░░░░   68.09 %
+JavaScript   9 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+TSConfig     3 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Bash         2 hrs 14 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Prisma       1 hr 54 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Other        1 hr 41 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
