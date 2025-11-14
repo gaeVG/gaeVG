@@ -84,15 +84,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2025 - To: 11 November 2025
+From: 13 October 2025 - To: 12 November 2025
 
-Total Time: 245 hrs 20 mins
+Total Time: 247 hrs 13 mins
 
-TypeScript   160 hrs 14 mins ████████████████░░░░░░░░░   65.31 %
-JavaScript   17 hrs 33 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Lua          8 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-TSConfig     7 hrs 24 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Other        4 hrs 8 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+TypeScript   168 hrs 50 mins █████████████████░░░░░░░░   68.29 %
+JavaScript   16 hrs 5 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Lua          8 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+TSConfig     6 hrs 35 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Other        3 hrs 55 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
