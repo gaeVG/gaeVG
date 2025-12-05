@@ -84,12 +84,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2025 - To: 02 December 2025
+From: 03 November 2025 - To: 03 December 2025
 
-Total Time: 281 hrs 28 mins
+Total Time: 284 hrs 59 mins
 
-TypeScript                 177 hrs 54 mins ████████████████░░░░░░░░░   63.20 %
-Other                      18 hrs 36 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+TypeScript                 175 hrs 10 mins ███████████████░░░░░░░░░░   61.47 %
+Other                      18 hrs 53 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
 ```
 
 <!--END_SECTION:waka-->
