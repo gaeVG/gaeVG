@@ -84,13 +84,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2025 - To: 16 December 2025
+From: 17 November 2025 - To: 17 December 2025
 
-Total Time: 211 hrs 8 mins
+Total Time: 197 hrs 44 mins
 
-TypeScript                 92 hrs 31 mins  ███████████░░░░░░░░░░░░░░   43.82 %
-JavaScript                 20 hrs 1 min    ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-Other                      18 hrs 48 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+TypeScript                 81 hrs 55 mins  ██████████░░░░░░░░░░░░░░░   41.43 %
+JavaScript                 19 hrs 50 mins  ███░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+Other                      19 hrs 21 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 %
 ```
 
 <!--END_SECTION:waka-->
