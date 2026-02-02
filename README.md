@@ -84,12 +84,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 30 January 2026
+From: 02 January 2026 - To: 01 February 2026
 
-Total Time: 172 hrs 58 mins
+Total Time: 172 hrs 55 mins
 
-TypeScript   57 hrs 59 mins  ████████░░░░░░░░░░░░░░░░░   33.53 %
-JavaScript   36 hrs 59 mins  █████░░░░░░░░░░░░░░░░░░░░   21.38 %
+TypeScript   57 hrs 59 mins  ████████░░░░░░░░░░░░░░░░░   33.54 %
+JavaScript   36 hrs 59 mins  █████░░░░░░░░░░░░░░░░░░░░   21.39 %
 Markdown     9 hrs 56 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
 Prisma       9 hrs 40 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
 Other        5 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
