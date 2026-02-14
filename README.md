@@ -84,14 +84,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2026 - To: 11 February 2026
+From: 13 January 2026 - To: 12 February 2026
 
-Total Time: 123 hrs 11 mins
+Total Time: 120 hrs 33 mins
 
-TypeScript   67 hrs 31 mins  ██████████████░░░░░░░░░░░   54.81 %
-JavaScript   16 hrs 22 mins  ███░░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Prisma       5 hrs 29 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-Other        4 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+TypeScript   66 hrs 5 mins   ██████████████░░░░░░░░░░░   54.82 %
+JavaScript   16 hrs 19 mins  ███░░░░░░░░░░░░░░░░░░░░░░   13.54 %
+Prisma       5 hrs 28 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Other        5 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
 ```
 
 <!--END_SECTION:waka-->
