@@ -84,15 +84,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2026 - To: 31 March 2026
+From: 02 March 2026 - To: 01 April 2026
 
-Total Time: 188 hrs 2 mins
+Total Time: 188 hrs 42 mins
 
-TypeScript   137 hrs 27 mins       ██████████████████░░░░░░░   73.10 %
-JavaScript   7 hrs 20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Markdown     4 hrs 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Lua          3 hrs 11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Other        2 hrs 40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+TypeScript   136 hrs 9 mins        ██████████████████░░░░░░░   72.15 %
+JavaScript   7 hrs 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Lua          4 hrs 37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Markdown     4 hrs 32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Other        2 hrs 51 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
