@@ -84,13 +84,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2026 - To: 14 April 2026
+From: 16 March 2026 - To: 15 April 2026
 
-Total Time: 166 hrs 41 mins
+Total Time: 155 hrs 26 mins
 
-TypeScript   117 hrs 15 mins       ██████████████████░░░░░░░   70.34 %
-CSS          18 hrs 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-Other        8 hrs 19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+TypeScript   105 hrs 14 mins       █████████████████░░░░░░░░   67.71 %
+CSS          18 hrs 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+Other        8 hrs 59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
 ```
 
 <!--END_SECTION:waka-->
