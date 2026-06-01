@@ -84,16 +84,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 April 2026 - To: 29 May 2026
+From: 30 April 2026 - To: 30 May 2026
 
-Total Time: 161 hrs
+Total Time: 159 hrs 31 mins
 
-TypeScript        98 hrs 36 mins        ███████████████░░░░░░░░░░   61.24 %
-JavaScript        8 hrs 52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-Prisma            8 hrs 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Markdown          5 hrs 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Lua               5 hrs 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Other             5 hrs 17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+TypeScript        100 hrs 55 mins       ████████████████░░░░░░░░░   63.26 %
+JavaScript        8 hrs 34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Prisma            8 hrs 17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Markdown          5 hrs 47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Lua               5 hrs 10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+INI               3 hrs 12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Other             3 hrs 11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
