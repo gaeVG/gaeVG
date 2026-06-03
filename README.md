@@ -84,19 +84,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2026 - To: 31 May 2026
+From: 02 May 2026 - To: 01 June 2026
 
-Total Time: 150 hrs 16 mins
+Total Time: 158 hrs 21 mins
 
-TypeScript        93 hrs 51 mins        ████████████████░░░░░░░░░   62.46 %
-JavaScript        8 hrs 34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Prisma            7 hrs 58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-Markdown          5 hrs 44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Lua               5 hrs 10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-INI               3 hrs 12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Text              3 hrs 3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-PowerShell        2 hrs 25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Protocol Buffer   2 hrs 14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+TypeScript        100 hrs 31 mins       ████████████████░░░░░░░░░   63.48 %
+JavaScript        8 hrs 33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Prisma            8 hrs                 █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Markdown          5 hrs 51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Lua               5 hrs 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+INI               3 hrs 12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Text              3 hrs 4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Other             2 hrs 33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
