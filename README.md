@@ -84,17 +84,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2026 - To: 04 June 2026
+From: 06 May 2026 - To: 05 June 2026
 
-Total Time: 187 hrs 5 mins
+Total Time: 189 hrs 10 mins
 
-TypeScript        126 hrs               █████████████████░░░░░░░░   67.35 %
-JavaScript        9 hrs 2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-Markdown          7 hrs 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Prisma            6 hrs 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Lua               6 hrs 8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
-Text              3 hrs 33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Other             3 hrs 32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+TypeScript        128 hrs 18 mins       █████████████████░░░░░░░░   67.82 %
+JavaScript        9 hrs 2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+Markdown          7 hrs 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Prisma            6 hrs 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Lua               6 hrs 22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Text              3 hrs 33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Other             3 hrs 32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
