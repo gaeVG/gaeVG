@@ -84,15 +84,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 June 2026 - To: 11 July 2026
+From: 12 June 2026 - To: 12 July 2026
 
-Total Time: 226 hrs 51 mins
+Total Time: 231 hrs 51 mins
 
-TypeScript        115 hrs 15 mins       █████████████░░░░░░░░░░░░   50.80 %
-Markdown          15 hrs 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-Prisma            12 hrs 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-Lua               11 hrs 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Other             9 hrs 40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+TypeScript        118 hrs 58 mins       █████████████░░░░░░░░░░░░   51.31 %
+Markdown          15 hrs 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Prisma            12 hrs 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
+Lua               11 hrs 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Other             10 hrs 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
 ```
 
 <!--END_SECTION:waka-->
