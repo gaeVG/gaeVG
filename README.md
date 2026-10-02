@@ -84,13 +84,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2026 - To: 29 September 2026
+From: 31 August 2026 - To: 30 September 2026
 
-Total Time: 139 hrs 7 mins
+Total Time: 134 hrs 20 mins
 
-TypeScript        49 hrs 8 mins         █████████░░░░░░░░░░░░░░░░   35.32 %
-Markdown          20 hrs 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.86 %
-Other             14 hrs 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 %
+TypeScript        47 hrs 56 mins        █████████░░░░░░░░░░░░░░░░   35.68 %
+Markdown          20 hrs 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 %
+Other             12 hrs 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 %
 ```
 
 <!--END_SECTION:waka-->
